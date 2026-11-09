@@ -45,6 +45,15 @@ Key objectives:
 
 ---
 
+## 👨‍💻 My Contributions — Dmytro Severyn
+
+**Role:** Team Project · Frontend Developer
+
+- Developed responsive **Header** and **Footer** components following Figma designs for mobile, tablet, and desktop layouts.
+- Built the interactive **mobile navigation menu** in JavaScript with opening/closing, **Escape** keyboard handling, link-click dismissal, and transitions.
+- Improved usability with a **sticky header**, hover and focus states, and fixes for burger-menu stacking and responsive styling.
+- Collaborated with the team using Git branches and pull requests to integrate and refine components.
+
 ## ✨ Features
 
 - 🔍 Search and sort artists by name
